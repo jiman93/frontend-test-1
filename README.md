@@ -11,3 +11,7 @@
     - name 
     - email 
     - body 
+
+## Notes
+- Once completed, send us a screenshot of all screens
+- Make your repo public, and send us the link for us to review
